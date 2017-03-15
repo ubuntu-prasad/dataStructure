@@ -1,4 +1,13 @@
+
 # Ignore .exe, .o files
+
+# Executables
 *.exe
+*.out
+*.app
+
+# Compiled Object files
+*.slo
+*.lo
 *.o
 *.obj
